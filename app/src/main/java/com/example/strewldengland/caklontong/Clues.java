@@ -8,6 +8,7 @@ public class Clues {
     private int mClues;
 
     public Clues(int clues){
+
         mClues = clues;
     }
 
